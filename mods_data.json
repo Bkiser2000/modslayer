@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "mod2",
+    "file_path": "mod2.esp",
+    "original_path": "/home/unabomber/modslayer/dummy_mods/mod2.esp",
+    "enabled": true,
+    "priority": 0,
+    "type": "file"
+  },
+  {
+    "id": 0,
+    "name": "mod1",
+    "file_path": "mod1.esp",
+    "original_path": "/home/unabomber/modslayer/dummy_mods/mod1.esp",
+    "enabled": true,
+    "priority": 1,
+    "type": "file"
+  },
+  {
+    "id": 2,
+    "name": "mod3",
+    "file_path": "mod3.esp",
+    "original_path": "/home/unabomber/modslayer/dummy_mods/mod3.esp",
+    "enabled": true,
+    "priority": 2,
+    "type": "file"
+  }
+]
